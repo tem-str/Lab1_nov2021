@@ -1,0 +1,84 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+WARNING: file ../../sw/benchmarks/heartbeat_variable.riscv could not be opened
+ERROR: File descriptor (0) passed to $fread in file D:/ITMO/Sigma_MCU_SoC/activecore-master/designs/rtl/ram/ram_dual.v at line 121 is not valid.
+Fatal: File ../../sw/benchmarks/heartbeat_variable.riscv not found!
+Time: 0 ps  Iteration: 0  Process: /riscv_tb/sigma/sigma_tile/ram/ram_dual/Initial112_66  File: D:/ITMO/Sigma_MCU_SoC/activecore-master/designs/rtl/ram/ram_dual.v
+$finish called at time : 0 fs : File "D:/ITMO/Sigma_MCU_SoC/activecore-master/designs/rtl/ram/ram_dual.v" Line 122
+
+##################################
+#### Loading elf file: ../../sw/benchmarks/heartbeat_variable.riscv
+e_phnum: 0xxxxxxxxx
+##################################
+
+### SIMULATION STARTED ###
+UDM WR32: addr: 0x00000000, data: 0x00000000
+UDM RD32: addr: 0x00000000, data: 0x00000000
+UDM WR32: addr: 0x00000004, data: 0x00000001
+UDM RD32: addr: 0x00000004, data: 0x00000001
+UDM WR32: addr: 0x00000008, data: 0x00000002
+UDM RD32: addr: 0x00000008, data: 0x00000002
+UDM WR32: addr: 0x0000000c, data: 0x00000003
+UDM RD32: addr: 0x0000000c, data: 0x00000003
+UDM WR32: addr: 0x00000010, data: 0x00000004
+UDM RD32: addr: 0x00000010, data: 0x00000004
+UDM WR32: addr: 0x00000014, data: 0x00000005
+UDM RD32: addr: 0x00000014, data: 0x00000005
+UDM WR32: addr: 0x00000018, data: 0x00000006
+UDM RD32: addr: 0x00000018, data: 0x00000006
+UDM WR32: addr: 0x0000001c, data: 0x00000007
+UDM RD32: addr: 0x0000001c, data: 0x00000007
+UDM WR32: addr: 0x00000020, data: 0x00000008
+UDM RD32: addr: 0x00000020, data: 0x00000008
+UDM WR32: addr: 0x00000024, data: 0x00000009
+UDM RD32: addr: 0x00000024, data: 0x00000009
+UDM WR32: addr: 0x00000028, data: 0x0000000a
+UDM RD32: addr: 0x00000028, data: 0x0000000a
+UDM WR32: addr: 0x0000002c, data: 0x0000000b
+UDM RD32: addr: 0x0000002c, data: 0x0000000b
+UDM WR32: addr: 0x00000030, data: 0x0000000c
+UDM RD32: addr: 0x00000030, data: 0x0000000c
+UDM WR32: addr: 0x00000034, data: 0x0000000d
+UDM RD32: addr: 0x00000034, data: 0x0000000d
+UDM WR32: addr: 0x00000038, data: 0x0000000e
+WARNING: file ../../sw/benchmarks/heartbeat_variable.riscv could not be opened
+ERROR: File descriptor (0) passed to $fread in file D:/ITMO/Sigma_MCU_SoC/activecore-master/designs/rtl/ram/ram_dual.v at line 121 is not valid.
+Fatal: File ../../sw/benchmarks/heartbeat_variable.riscv not found!
+Time: 0 ps  Iteration: 0  Process: /riscv_tb/sigma/sigma_tile/ram/ram_dual/Initial112_66  File: D:/ITMO/Sigma_MCU_SoC/activecore-master/designs/rtl/ram/ram_dual.v
+$finish called at time : 0 fs : File "D:/ITMO/Sigma_MCU_SoC/activecore-master/designs/rtl/ram/ram_dual.v" Line 122
+
+##################################
+#### Loading elf file: ../../sw/benchmarks/heartbeat_variable.riscv
+e_phnum: 0xxxxxxxxx
+##################################
+
+### SIMULATION STARTED ###
+UDM WR32: addr: 0x00000000, data: 0x00000000
+UDM RD32: addr: 0x00000000, data: 0x00000000
+UDM WR32: addr: 0x00000004, data: 0x00000001
+UDM RD32: addr: 0x00000004, data: 0x00000001
+UDM WR32: addr: 0x00000008, data: 0x00000002
+UDM RD32: addr: 0x00000008, data: 0x00000002
+UDM WR32: addr: 0x0000000c, data: 0x00000003
+UDM RD32: addr: 0x0000000c, data: 0x00000003
+UDM WR32: addr: 0x00000010, data: 0x00000004
+UDM RD32: addr: 0x00000010, data: 0x00000004
+UDM WR32: addr: 0x00000014, data: 0x00000005
+UDM RD32: addr: 0x00000014, data: 0x00000005
+UDM WR32: addr: 0x00000018, data: 0x00000006
+UDM RD32: addr: 0x00000018, data: 0x00000006
+UDM WR32: addr: 0x0000001c, data: 0x00000007
+UDM RD32: addr: 0x0000001c, data: 0x00000007
+UDM WR32: addr: 0x00000020, data: 0x00000008
+UDM RD32: addr: 0x00000020, data: 0x00000008
+UDM WR32: addr: 0x00000024, data: 0x00000009
+UDM RD32: addr: 0x00000024, data: 0x00000009
+UDM WR32: addr: 0x00000028, data: 0x0000000a
+UDM RD32: addr: 0x00000028, data: 0x0000000a
+UDM WR32: addr: 0x0000002c, data: 0x0000000b
+UDM RD32: addr: 0x0000002c, data: 0x0000000b
+UDM WR32: addr: 0x00000030, data: 0x0000000c
+UDM RD32: addr: 0x00000030, data: 0x0000000c
+UDM WR32: addr: 0x00000034, data: 0x0000000d
+UDM RD32: addr: 0x00000034, data: 0x0000000d
+UDM WR32: addr: 0x00000038, data: 0x0000000e
